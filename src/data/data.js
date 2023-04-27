@@ -132,13 +132,13 @@ export const data = [
   export const categories = [
     {
       id: 1,
-      name: 'Fast Food',
+      name: 'Weekly Deliveries',
       image:
         'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/FastFood_BrowseHome@3x.png',
     },
     {
       id: 2,
-      name: 'Pizza',
+      name: 'High End Meals',
       image:
         'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Pizza_BrowseHome@3x.png',
     },
@@ -162,7 +162,7 @@ export const data = [
     },
     {
       id: 6,
-      name: 'Restaurant Rewards',
+      name: 'Rewards',
       image:
         'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/RestoRewards_BrowseHome@3x.png',
     },
